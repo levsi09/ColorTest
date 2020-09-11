@@ -1,0 +1,10 @@
+p {
+	text-align: center;
+	font-size: 200px;
+}
+
+button {
+	text-align: center;
+	font-size: 25px;
+	cursor: pointer;
+}
